@@ -7,7 +7,7 @@ AUTOBOT autonomously scans, diagnoses, and fixes code health issues: bugs, bad d
 ## Installation
 
 ```bash
-npx skills add YOUR-USERNAME/autobot
+npx skills add SawantDarshan/AUTOBOT
 ```
 
 ## Usage
